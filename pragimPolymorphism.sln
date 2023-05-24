@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pragimPolymorphism", "pragimPolymorphism\pragimPolymorphism.csproj", "{F48255AF-1289-48B7-9E90-1DF538013E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48255AF-1289-48B7-9E90-1DF538013E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48255AF-1289-48B7-9E90-1DF538013E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48255AF-1289-48B7-9E90-1DF538013E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48255AF-1289-48B7-9E90-1DF538013E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {503AB953-5477-4380-A4DF-76250E3699CF}
+	EndGlobalSection
+EndGlobal

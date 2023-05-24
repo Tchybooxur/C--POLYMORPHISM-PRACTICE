@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\pragimPolymorphism\pragimPolymorphism\bin\Debug\pragimPolymorphism.exe.config
+C:\Users\USER\source\repos\pragimPolymorphism\pragimPolymorphism\bin\Debug\pragimPolymorphism.exe
+C:\Users\USER\source\repos\pragimPolymorphism\pragimPolymorphism\bin\Debug\pragimPolymorphism.pdb
+C:\Users\USER\source\repos\pragimPolymorphism\pragimPolymorphism\obj\Debug\pragimPolymorphism.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\pragimPolymorphism\pragimPolymorphism\obj\Debug\pragimPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\pragimPolymorphism\pragimPolymorphism\obj\Debug\pragimPolymorphism.exe
+C:\Users\USER\source\repos\pragimPolymorphism\pragimPolymorphism\obj\Debug\pragimPolymorphism.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\pragimPolymorphism\pragimPolymorphism\bin\Debug\pragimPolymorphism.exe.config
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\pragimPolymorphism\pragimPolymorphism\bin\Debug\pragimPolymorphism.exe
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\pragimPolymorphism\pragimPolymorphism\bin\Debug\pragimPolymorphism.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\pragimPolymorphism\pragimPolymorphism\obj\Debug\pragimPolymorphism.csproj.AssemblyReference.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\pragimPolymorphism\pragimPolymorphism\obj\Debug\pragimPolymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\pragimPolymorphism\pragimPolymorphism\obj\Debug\pragimPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\pragimPolymorphism\pragimPolymorphism\obj\Debug\pragimPolymorphism.exe
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\pragimPolymorphism\pragimPolymorphism\obj\Debug\pragimPolymorphism.pdb
